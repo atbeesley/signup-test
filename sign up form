@@ -1,0 +1,28 @@
+
+<html>
+<head>
+<center>
+Sign Up Form
+</center>
+</head>
+<body>
+<p>First Name</p>
+<p><form action="/submit-firstname">
+  <input type="text" placeholder="Write hereL">
+</form>
+</p>
+</form></p>
+<p>Surname<p>
+<p><form action="/submit-surname">
+  <input type="text" placeholder="Write here">
+</form>
+<p>
+<p>Email address<p>
+<p><form action="/submit-emailaddress">
+  <input type="text" placeholder="Write here">
+</form>
+<p>
+ <button type="submit">Submit</button>
+ </p>
+</body>
+</html>
